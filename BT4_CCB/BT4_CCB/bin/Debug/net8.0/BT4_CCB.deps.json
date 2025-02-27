@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BT4_CCB/1.0.0": {
+        "runtime": {
+          "BT4_CCB.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BT4_CCB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

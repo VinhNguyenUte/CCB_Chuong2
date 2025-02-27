@@ -1,0 +1,15 @@
+D:\DH\224\224C#CB\C2\Bai4\BT4_CCB\BT4_CCB\bin\Debug\net8.0\BT4_CCB.exe
+D:\DH\224\224C#CB\C2\Bai4\BT4_CCB\BT4_CCB\bin\Debug\net8.0\BT4_CCB.deps.json
+D:\DH\224\224C#CB\C2\Bai4\BT4_CCB\BT4_CCB\bin\Debug\net8.0\BT4_CCB.runtimeconfig.json
+D:\DH\224\224C#CB\C2\Bai4\BT4_CCB\BT4_CCB\bin\Debug\net8.0\BT4_CCB.dll
+D:\DH\224\224C#CB\C2\Bai4\BT4_CCB\BT4_CCB\bin\Debug\net8.0\BT4_CCB.pdb
+D:\DH\224\224C#CB\C2\Bai4\BT4_CCB\BT4_CCB\obj\Debug\net8.0\BT4_CCB.GeneratedMSBuildEditorConfig.editorconfig
+D:\DH\224\224C#CB\C2\Bai4\BT4_CCB\BT4_CCB\obj\Debug\net8.0\BT4_CCB.AssemblyInfoInputs.cache
+D:\DH\224\224C#CB\C2\Bai4\BT4_CCB\BT4_CCB\obj\Debug\net8.0\BT4_CCB.AssemblyInfo.cs
+D:\DH\224\224C#CB\C2\Bai4\BT4_CCB\BT4_CCB\obj\Debug\net8.0\BT4_CCB.csproj.CoreCompileInputs.cache
+D:\DH\224\224C#CB\C2\Bai4\BT4_CCB\BT4_CCB\obj\Debug\net8.0\BT4_CCB.sourcelink.json
+D:\DH\224\224C#CB\C2\Bai4\BT4_CCB\BT4_CCB\obj\Debug\net8.0\BT4_CCB.dll
+D:\DH\224\224C#CB\C2\Bai4\BT4_CCB\BT4_CCB\obj\Debug\net8.0\refint\BT4_CCB.dll
+D:\DH\224\224C#CB\C2\Bai4\BT4_CCB\BT4_CCB\obj\Debug\net8.0\BT4_CCB.pdb
+D:\DH\224\224C#CB\C2\Bai4\BT4_CCB\BT4_CCB\obj\Debug\net8.0\BT4_CCB.genruntimeconfig.cache
+D:\DH\224\224C#CB\C2\Bai4\BT4_CCB\BT4_CCB\obj\Debug\net8.0\ref\BT4_CCB.dll
