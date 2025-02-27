@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BT2_CCB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2282d81838d6852589c7e6fd531ba65b08af328")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b8b6fdb8b845b12e6b2a6f1498eb306b82df2eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("BT2_CCB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BT2_CCB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
