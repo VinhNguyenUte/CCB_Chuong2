@@ -1,0 +1,15 @@
+D:\DH\224\224C#CB\C2\Bai5\BT5_CCB\BT5_CCB\bin\Debug\net8.0\BT5_CCB.exe
+D:\DH\224\224C#CB\C2\Bai5\BT5_CCB\BT5_CCB\bin\Debug\net8.0\BT5_CCB.deps.json
+D:\DH\224\224C#CB\C2\Bai5\BT5_CCB\BT5_CCB\bin\Debug\net8.0\BT5_CCB.runtimeconfig.json
+D:\DH\224\224C#CB\C2\Bai5\BT5_CCB\BT5_CCB\bin\Debug\net8.0\BT5_CCB.dll
+D:\DH\224\224C#CB\C2\Bai5\BT5_CCB\BT5_CCB\bin\Debug\net8.0\BT5_CCB.pdb
+D:\DH\224\224C#CB\C2\Bai5\BT5_CCB\BT5_CCB\obj\Debug\net8.0\BT5_CCB.GeneratedMSBuildEditorConfig.editorconfig
+D:\DH\224\224C#CB\C2\Bai5\BT5_CCB\BT5_CCB\obj\Debug\net8.0\BT5_CCB.AssemblyInfoInputs.cache
+D:\DH\224\224C#CB\C2\Bai5\BT5_CCB\BT5_CCB\obj\Debug\net8.0\BT5_CCB.AssemblyInfo.cs
+D:\DH\224\224C#CB\C2\Bai5\BT5_CCB\BT5_CCB\obj\Debug\net8.0\BT5_CCB.csproj.CoreCompileInputs.cache
+D:\DH\224\224C#CB\C2\Bai5\BT5_CCB\BT5_CCB\obj\Debug\net8.0\BT5_CCB.sourcelink.json
+D:\DH\224\224C#CB\C2\Bai5\BT5_CCB\BT5_CCB\obj\Debug\net8.0\BT5_CCB.dll
+D:\DH\224\224C#CB\C2\Bai5\BT5_CCB\BT5_CCB\obj\Debug\net8.0\refint\BT5_CCB.dll
+D:\DH\224\224C#CB\C2\Bai5\BT5_CCB\BT5_CCB\obj\Debug\net8.0\BT5_CCB.pdb
+D:\DH\224\224C#CB\C2\Bai5\BT5_CCB\BT5_CCB\obj\Debug\net8.0\BT5_CCB.genruntimeconfig.cache
+D:\DH\224\224C#CB\C2\Bai5\BT5_CCB\BT5_CCB\obj\Debug\net8.0\ref\BT5_CCB.dll

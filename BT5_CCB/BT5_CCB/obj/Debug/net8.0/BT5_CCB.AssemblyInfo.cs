@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BT5_CCB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2282d81838d6852589c7e6fd531ba65b08af328")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6627bb064d60ae366bae3fc65264d49c9e13b0ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("BT5_CCB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BT5_CCB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
